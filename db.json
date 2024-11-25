@@ -1,0 +1,611 @@
+{
+  "BestSeller": [
+    {
+      "id": 1,
+      "img": "https://images.mamaearth.in/catalog/product/u/b/ubtan-face-wash_1_1_2.jpeg?format=auto&width=400&height=400",
+      "name": "Ubtan Face Wash",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 2,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit_c_glow_sunscreen1_white_bg.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Sunscreen",
+      "Discount": "50% off",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "category": "sunscreen"
+    },
+    {
+      "id": 3,
+      "img": "https://images.mamaearth.in/catalog/product/r/i/rice-fw-1.jpg?format=auto&width=400&height=400",
+      "name": "Rice Face Wash with Rice Water",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 4,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vitamin-c-glow-serum_1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Serum Daily Glow",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "serum",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 5,
+      "img": "https://images.mamaearth.in/catalog/product/3/_/3_11.jpg?format=auto&width=400&height=400",
+      "name": "rose Merry Anti-Hair Fall Shampoo",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 6,
+      "img": "https://images.mamaearth.in/catalog/product/w/i/with-ingredient.jpg?format=auto&width=400&height=400",
+      "name": "Onion Shampoo With Onion & ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 7,
+      "img": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_3.jpg?format=auto&width=400&height=400",
+      "name": "Betroot Gentle Face Wash with Beetroot ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 8,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit-c-face-wash-1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Face Wash With Vitamin C and ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 9,
+      "img": "https://images.mamaearth.in/catalog/product/o/n/onion_hair_oil_200ml_fop_1200x1200.png?format=auto&width=400&height=400",
+      "name": "Onion Shampoo With Onion Oil  & ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 10,
+      "img": "https://images.mamaearth.in/catalog/product/u/b/ubtan-face-wash_1_1_2.jpeg?format=auto&width=400&height=400 U",
+      "name": "Ubtan Face Wash  With Turmeric & Saffron Tan ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 11,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit_c_glow_sunscreen1_white_bg.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Sunscreen With Vitamin C ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 12,
+      "img": "https://images.mamaearth.in/catalog/product/r/i/rice-fw-1.jpg?format=auto&width=400&height=400",
+      "name": "Rice Face Wash with Rice Water",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    }
+  ],
+  "SummerFavourites": [
+    {
+      "id": 1,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vitamin-c-glow-serum_1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Serum With Vitamin C ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "serum",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 2,
+      "img": "https://images.mamaearth.in/catalog/product/u/b/ubtan_face_mask_1.jpg?format=auto&width=400&height=400",
+      "name": "Ubtan Face Mask with Saffron and Turmeric for Skin Brightening and Tan Removal -",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "499",
+      "mrp": "600"
+    },
+    {
+      "id": 3,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit-c-glow-sunscreen1.jpg?format=auto&width=400&height=400",
+      "name": "Ubtan Face Mask With Saffron And Turmeric ... ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "mask",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 4,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit-c-glow-cream1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Face Cream  With Vitamin C ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "cream",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 5,
+      "img": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_10.jpg?format=auto&width=400&height=400",
+      "name": "Betroot Hydraful Sunscreen With Betroot ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 6,
+      "img": "https://images.mamaearth.in/catalog/product/u/l/ultra_light_indian_sunscreen_1_1.jpg?format=auto&width=400&height=400",
+      "name": "Ultra Light Indian Sunscreen With Carrot Seed",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 7,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vitamin-c-glow-serum_1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Serum With Vitamin C ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "serum",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 8,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit-c-glow-sunscreen1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Sunscreen With Vitamin C ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "299",
+      "mrp": "400"
+    }
+  ],
+  "facewash": [
+    {
+      "id": 1,
+      "img": "https://images.mamaearth.in/catalog/product/u/b/ubtan-face-wash_1_1_2.jpeg?format=auto&width=400&height=400",
+      "name": "Ubtan Face Mask With Saffron And Turmeric ... ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 2,
+      "img": "https://images.mamaearth.in/catalog/product/r/i/rice-fw-1.jpg?format=auto&width=400&height=400",
+      "name": "Rice Face Wash with Rice Water",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "299",
+      "category": "facewash",
+      "mrp": "400"
+    },
+    {
+      "id": 3,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit_c_glow_sunscreen1_white_bg.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Serum With Vitamin C ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "499",
+      "category": "facewash",
+      "mrp": "400"
+    },
+    {
+      "id": 4,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vitamin-c-glow-serum_1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Serum With Vitamin C ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 5,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit-c-face-wash-1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Face Wash with Vitamin C and Turmeric for Skin Illumination - 250ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "449",
+      "mrp": "400"
+    },
+    {
+      "id": 6,
+      "img": "https://images.mamaearth.in/catalog/product/1/-/1-wid-ingredients.jpg?format=auto&width=400&height=400",
+      "name": "Ubtan Face Wash with Turmeric & Saffron for Tan Removal – 100ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "269",
+      "mrp": "400"
+    },
+    {
+      "id": 7,
+      "img": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_3.jpg?format=auto&height=600",
+      "name": "Beetroot Gentle Face Wash With Beetroot & Hyaluronic Acid - 100 ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "259",
+      "mrp": "400"
+    },
+    {
+      "id": 8,
+      "img": "https://images.mamaearth.in/catalog/product/m/u/multani_mitti_face_wash_1.jpg?format=auto&width=400&height=400",
+      "name": "Multani Mitti Face Wash with Multani Mitti & Bulgarian Rose For Oil Control & Acne - 100",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "269",
+      "mrp": "400"
+    },
+    {
+      "id": 9,
+      "img": "https://images.mamaearth.in/catalog/product/t/e/tea-tree-face-wash-1.jpeg?format=auto&height=600",
+      "name": "Tea Tree Facewash for acne and pimples, 100ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 10,
+      "img": "https://images.mamaearth.in/catalog/product/c/h/charcoal-face-wash_1.jpg?format=auto&width=400&height=400",
+      "name": "Charcoal Face Wash with Activated Charcoal and Coffee for Oil Control - 250ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "facewash",
+      "price": "299",
+      "mrp": "400"
+    }
+  ],
+  "sunscreen": [
+    {
+      "id": 1,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit_c_glow_sunscreen1_white_bg_1.jpg?format=auto&width=400&height=400",
+      "name": "Vitamin C Daily Glow Sunscreen with Vitamin C & Turmeric for Sun Protection & Glow - 50 g",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "349.00",
+      "mrp": "400"
+    },
+    {
+      "id": 2,
+      "img": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_10.jpg?format=auto&width=400&height=400",
+      "name": "Beetroot Hydraful Sunscreen With Beetroot & Hyaluronic Acid - 50 g",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "399",
+      "mrp": "400"
+    },
+    {
+      "id": 3,
+      "img": "https://images.mamaearth.in/catalog/product/w/i/with-ingredients_3.jpg?format=auto&width=400&height=400",
+      "name": "Mamaearth Rice Water Dewy Sunscreen with SPF 50 & PA++++ - 50g",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "499",
+      "mrp": "600"
+    },
+    {
+      "id": 4,
+      "img": "https://images.mamaearth.in/catalog/product/f/d/fds_9681-with-props_8cpplsjatrkaufgc.jpg?format=auto&width=400&height=400",
+      "name": "Mineral Based Sunscreen 50ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "199",
+      "mrp": "400"
+    },
+    {
+      "id": 5,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit-c-sunscreen-body-lotion-1.jpg?format=auto&width=400&height=400",
+      "name": "Sunscreen Body Lotion with SPF 30 - 300 ml | Vitamin C",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "399",
+      "mrp": "500"
+    },
+    {
+      "id": 6,
+      "img": "https://images.mamaearth.in/catalog/product/i/m/img_4583probs-600x600_qssgh040a0fnnp0g.jpg?format=auto&width=400&height=400",
+      "name": "Mineral Based Sunscreen 100ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 7,
+      "img": "https://images.mamaearth.in/catalog/product/u/b/ubtan-sunscreen-body-lotion_1.jpg?format=auto&width=400&height=400",
+      "name": "Ultra Light Indian Sunscreen With Carrot Seed",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "399",
+      "mrp": "500"
+    },
+    {
+      "id": 8,
+      "img": "https://images.mamaearth.in/catalog/product/v/i/vit.c_white_bg.jpg?format=auto&width=400&height=400",
+      "name": "Sunscreen Body Lotion with SPF 30 - 300 ml | Vitamin C Pack of 2",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "sunscreen",
+      "price": "299",
+      "mrp": "400"
+    }
+  ],
+  "shampoo": [
+    {
+      "id": 1,
+      "img": "https://images.mamaearth.in/catalog/product/w/i/with-ingredient.jpg?format=auto&width=400&height=400",
+      "name": "Onion Shampoo With Onion & ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 2,
+      "img": "https://images.mamaearth.in/catalog/product/l/e/lemon-anti-dandruff-shampoo_1_1_2.jpg?format=auto&width=400&height=400",
+      "name": "Lemon Anti Dendruff With Lemon And Ginger Up To 100%",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "299",
+      "mrp": "400"
+    },
+    {
+      "id": 3,
+      "img": "https://images.mamaearth.in/catalog/product/3/_/3_58.jpg?format=auto&width=400&height=400",
+      "name": "Rosemary Anti-Hair Fall Shampoo with Rosemary & Methi Dana for Reducing Hair Loss & Breakage - 400 ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "549",
+      "mrp": "700"
+    },
+    {
+      "id": 4,
+      "img": "https://images.mamaearth.in/catalog/product/b/h/bhringamla-shampoo_1_.jpg?format=auto&height=600",
+      "name": "BhringAmla Shampoo with Bhringraj and Amla for Intense Hair Treatment - 250 ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "349",
+      "mrp": "400"
+    },
+    {
+      "id": 5,
+      "img": "https://images.mamaearth.in/catalog/product/t/e/tea_tree_shampoo_1.jpg?format=auto&width=400&height=400",
+      "name": "Tea Tree Shampoo for Dandruff Free Hair - 250ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "349",
+      "mrp": "400"
+    },
+    {
+      "id": 6,
+      "img": "https://images.mamaearth.in/catalog/product/a/l/almond-range-copy.jpg?format=auto&width=400&height=400",
+      "name": "Almond Shampoo with Cold Pressed Almond Oil and Vitamin E for Healthy Hair Growth - 250 ml.",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "349",
+      "mrp": "400"
+    },
+    {
+      "id": 7,
+      "img": "https://images.mamaearth.in/catalog/product/c/u/curd_smoothening_shampoo_1.jpg?format=auto&width=400&height=400",
+      "name": "Curd Smoothening Shampoo with Curd & Keratin for Smooth & Shiny Hair- 250 ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "499",
+      "mrp": "400"
+    },
+    {
+      "id": 8,
+      "img": "https://images.mamaearth.in/catalog/product/w/i/with-ingredient.jpg?format=auto&width=400&height=400",
+      "name": "Onion Shampoo With Onion & ...",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shampoo",
+      "price": "299",
+      "mrp": "400"
+    }
+  ],
+  "foundation":[
+    {
+      "id": 1,
+      "img": "https://images.mamaearth.in/catalog/product/1/_/1_ivory_glow_white_bg.jpg?format=auto&width=400&height=400",
+      "name": "Glow Serum Foundation - 30ml | Ivory glow",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "foundation",
+      "price": "599",
+      "mrp": "700"
+    },
+    {
+      "id": 2,
+      "img": "https://images.mamaearth.in/catalog/product/k/o/kohl_listing_image_white_bg.jpg?format=auto&width=400&height=400",
+      "name": "Charcoal Black Long Stay Kajal Kohl Pencil With Castor Oil and Chamomile For 11-Hour",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "foundation",
+      "price": "968",
+      "mrp": "1200"
+    },
+    {
+      "id": 3,
+      "img": "https://images.mamaearth.in/catalog/product/1/_/1_31.jpg?format=auto&width=400&height=400 ",
+      "name": "Hydra-Glow Full Coverage Foundation With Vitamin C & Turmeric - 30 ml | Beige Glow",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "foundation",
+      "price": "479",
+      "mrp": "6200"
+    },
+    {
+      "id": 4,
+      "img": "https://images.mamaearth.in/catalog/product/1/_/1_28.jpg?format=auto&height=600",
+      "name": "Hydra-Glow Full Coverage Foundation With Vitamin C & Turmeric - 30 ml | Crème Glow",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "foundation",
+      "price": "779",
+      "mrp": "820"
+    },
+    {
+      "id": 5,
+      "img": "https://images.mamaearth.in/catalog/product/0/3/03_1.png?format=auto&width=400&height=400",
+      "name": "Glow Serum Foundation Mini Tube - Nude Glow - 18ml",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "foundation",
+      "price": "349",
+      "mrp": "620"
+    },
+    {
+      "id": 6,
+      "img": "https://images.mamaearth.in/catalog/product/1/_/1_almond_glow_white_bg.jpg?format=auto&width=400&height=400",
+      "name": "Glow Serum Foundation - 30ml | Almond Glow",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "foundation",
+      "price": "599",
+      "mrp": "799"
+    },
+    {
+      "id": 7,
+      "img": "https://images.mamaearth.in/catalog/product/1/_/1_almond_glow_white_bg.jpg?format=auto&width=400&height=400",
+      "name": "Glow Serum Foundation - 30ml | Almond Glow",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "foundation",
+      "price": "899",
+      "mrp": "1099"
+    },
+    {
+      "id": 8,
+      "img": "https://images.mamaearth.in/catalog/product/1/_/1_31.jpg?format=auto&width=400&height=400 ",
+      "name": "Hydra-Glow Full Coverage Foundation With Vitamin C & Turmeric - 30 ml | Beige Glow",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "foundation",
+      "price": "979",
+      "mrp": "1200"
+    }
+
+
+  ],
+  "serum":[
+    {
+      "id": 1,
+      "img": "https://images.mamaearth.in/catalog/product/s/k/skin-correct-face-serum-with-ingredient_1.jpg?format=auto&width=400&height=400",
+      "name": "Skin Correct Face Serum with Niacinamide and Ginger Extract for Acne Marks and Scars",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "serum",
+      "price": "599",
+      "mrp": "700"
+
+  }, {
+    "id": 2,
+    "img": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_9.jpg?format=auto&width=400&height=400",
+    "name": "Beetroot Hydraful Essence Serum - 50 ml",
+    "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+    "Discount": "50% off",
+    "category": "serum",
+    "price": "499",
+    "mrp": "700"
+
+},
+ {
+  "id":3,
+  "img": "https://images.mamaearth.in/catalog/product/v/i/vitamin-c-glow-serum_1_1_1.jpg?format=auto&width=400&height=400",
+  "name": "Vitamin C Daily Glow Face Serum 10 ml",
+  "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+  "Discount": "50% off",
+  "category": "serum",
+  "price": "225",
+  "mrp": "700"
+
+},
+{
+  "id":4,
+  "img": "https://images.mamaearth.in/catalog/product/_/t/_tea-tree-face-serum_.jpg?format=auto&width=400&height=400",
+  "name": "Tea Tree Face Serum for Acne and Pimples - 30 ml",
+  "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+  "Discount": "50% off",
+  "category": "serum",
+  "price": "595",
+  "mrp": "700"
+
+},
+{
+  "id":5,
+  "img": "https://images.mamaearth.in/catalog/product/u/b/ubtan-face-serum1.jpg?format=auto&width=400&height=400",
+  "name": "Ubtan Face Serum with Turmeric & Saffron for Skin Brightening – 30 ml",
+  "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+  "Discount": "50% off",
+  "category": "serum",
+  "price": "499",
+  "mrp": "700"
+
+}
+
+]
+}
